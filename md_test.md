@@ -159,7 +159,7 @@ Render Mermaid diagrams wrapped in `mmd` or `mermaid` fenced code blocks:
       end
       B -->|有效| C
       B -->|无效| D[丢弃]
-      C -->|验证| D([入库])
+      C -->|验证| E([入库])
     ```
 
 Alternatively diagrams can be wrapped in HTML tags:
